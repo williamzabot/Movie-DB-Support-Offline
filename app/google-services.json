@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "918854030022",
+    "project_id": "fullmoviedb",
+    "storage_bucket": "fullmoviedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918854030022:android:65ddb9e690d765e0edbdc7",
+        "android_client_info": {
+          "package_name": "com.williamzabot.fullmoviedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918854030022-tddl8v329l1mfkce0udrjlnd9lqjk1gl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.williamzabot.fullmoviedb",
+            "certificate_hash": "84d47e46bad97feec7079bed6820c57b6b5ee2a0"
+          }
+        },
+        {
+          "client_id": "918854030022-loq880n58r23m9t5pv77q6job2pr60gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcFbrugTo16mVgVB8THIs4eGfUVFzDrAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918854030022-loq880n58r23m9t5pv77q6job2pr60gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
